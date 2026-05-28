@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvarse",
+        "uuid": 13711920,
+        "checksum": "dkqnva"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
